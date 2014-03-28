@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="ECC-Elliptic Curves Cryptography:ear exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ECC_Elliptic_Curves_Cryptography_ear_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ECC-Elliptic Curves Cryptography/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
